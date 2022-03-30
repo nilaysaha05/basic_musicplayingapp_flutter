@@ -1,6 +1,6 @@
 # player_music
 
-A basic music player app
+A basic music player app built using flutter
 
 ## Getting Started
 
